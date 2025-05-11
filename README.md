@@ -27,10 +27,12 @@ A entrada é uma matriz 2D, com os seguintes valores:
 
 ### Exemplo:
 
+```
 S 0 1 0 0
 0 0 1 0 1
 1 0 1 0 0
 1 0 0 E 1
+```
 
 ---
 
